@@ -1,4 +1,4 @@
-# GodTeacher
+# GodTutor
 
 **A structured prompt system that turns any LLM into a brutal, no-handholding technical mentor.**
 
