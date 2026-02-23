@@ -75,7 +75,7 @@ GodTeacher/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/GodTeacher.git
+git clone https://github.com/triv321/godtutor.git
 ```
 
 ### Step 2: Open Your Preferred LLM
